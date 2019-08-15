@@ -1,0 +1,22 @@
+{
+  "name": "puppetterjs",
+  "version": "1.0.0",
+  "description": "example about how to use puppertter with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NycollSM/puppetterJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NycollSM/puppetterJS/issues"
+  },
+  "homepage": "https://github.com/NycollSM/puppetterJS#readme",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
